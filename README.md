@@ -1,5 +1,7 @@
 # Awesome Turkish Security
 
+[![links](https://github.com/Tarikdxd/awesome-turkish-security/actions/workflows/links.yml/badge.svg)](https://github.com/Tarikdxd/awesome-turkish-security/actions/workflows/links.yml)
+
 Türkçe açıklamalı, bakımı yapılan siber güvenlik kaynakları listesi. Amaç araç çöplüğü değil; **doğru başlangıç noktaları** ve gerçekten çalışan linkler.
 
 > Linkler **31 Ekim 2026** tarihinde kontrol edildi. Ölü link görürsen issue aç.
