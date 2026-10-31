@@ -1,0 +1,5 @@
+# lychee istisnaları.
+# Yalnızca botlara 403 dönen ama tarayıcıda açılan siteler; her satırın nedeni yazılır.
+
+# 2026-10-31: botlara 403, tarayıcıda 200.
+https://hacktrickconf.com
